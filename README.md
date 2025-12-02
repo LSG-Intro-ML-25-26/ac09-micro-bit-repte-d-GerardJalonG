@@ -1,5 +1,7 @@
 
 > Obre aquesta pàgina a [https://raimonizard.github.io/microbit-template-repo/](https://raimonizard.github.io/microbit-template-repo/)
+### REPTE PRINCIPAL
+<img width="1061" height="483" alt="image" src="https://github.com/user-attachments/assets/814a7d06-d1bf-439c-bc09-1e8a1be60524" />
 
 ## Utilitza-ho com a extensió
 
